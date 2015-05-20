@@ -91,4 +91,4 @@ for i in range(int(input())):
         print(biblioteka.wypozycz(t[1], t[2]))
     elif t[0] == "oddaj":
         print(biblioteka.oddaj(t[1], t[2]))
-'''
+print("Koniec")
